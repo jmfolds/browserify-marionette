@@ -56,4 +56,4 @@ To to build/serve the bundled/browserified code:
  * ```cd /repo && npm install```
  * ```gulp build``` to run browserify.
  * ```gulp watch``` to run browserify on file save.
- * ```gulp serve``` to run locally at localhost:8080
+ * ```gulp``` to run locally at localhost:8080
