@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "name": "browserify_marionette",
+  "dependencies": {
+    "jquery": "2.1.4",
+    "underscore": "1.8.3",
+    "backbone": "1.2.2",
+    "backbone.marionette": "2.4.2"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "gulp": "^3.8.10",
+    "gulp-connect": "^2.2.0",
+    "gulp-util": "^3.0.6",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.3.1"
+  }
+}
